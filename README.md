@@ -143,7 +143,7 @@ This enables:
 ## 🌐 Live Demo
 
 🚀 Running on Public URL:  
-https://deb906d510b3a634c6.gradio.live  
+https://620ba8c43fa96e4031.gradio.live
 
 ## 👨‍💻 Author
 
